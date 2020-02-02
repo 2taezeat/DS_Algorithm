@@ -46,6 +46,7 @@ if __name__ == "__main__":
     print("pop:{0}".format(stack.pop()))
     print("peek:{0}".format(stack.peek()))
     print("Is stack is empty?:{0}".format(stack.isEmpty()))
+    print(stack)
 
 
 
